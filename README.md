@@ -1,3 +1,7 @@
+## Deprecation Warning
+
+The Swift Education materials are out of date, and are no longer maintained.
+
 # Flashlight
 
 ### Level 1, WordCollage Lesson 1
